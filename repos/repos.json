@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "Lotus_defconfig",
+      "name": "lotus_defconfig",
       "repo": "https://github.com/HK416AAA/android_kernel_xiaomi_lotus",
-      "branch": "",
-      "device": "begonia",
-      "defconfig": "begonia_user_defconfig"
+      "branch": "lineage-15.1",
+      "device": "lotus",
+      "defconfig": "lotus_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
