@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "kernel_xiaomi_mt6785",
+      "name": "begonia_user_defconfig",
       "repo": "https://github.com/HK416AAA/kernel_xiaomi_mt6785",
       "branch": "nova",
       "device": "begonia",
